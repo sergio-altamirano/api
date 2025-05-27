@@ -1,0 +1,39 @@
+{
+  "Productos":[
+    {
+      "title": "taco de pastor",
+      "price": "100.00",
+      "description": "delicioso taco de pastor con su verdura fresca y con un delicioso sazon",
+      "rating": "5",
+      "thumbnail": "https://raw.githubusercontent.com/sergio-altamirano/act1ioss/refs/heads/main/tacos-al-pastor.jpg"
+    },
+    {
+      "title": "tacos de buche",
+      "price": "80.00",
+      "description": "delicioso taco de buche con su verdura fresca y con un delicioso sazon",
+      "rating": "4",
+      "thumbnail": "https://raw.githubusercontent.com/sergio-altamirano/act1ioss/refs/heads/main/buche.jpg"
+    },
+    {
+      "title": "tacos de bistec",
+      "price": "80.00",
+      "description": "delicioso taco de bistec con su verdura fresca y con un delicioso sazon",
+      "rating": "4",
+      "thumbnail": "https://raw.githubusercontent.com/sergio-altamirano/act1ioss/refs/heads/main/tacos-de-bistec-a-la-mexicana.jpg"
+    },
+    {
+      "title": "tacos de tripa",
+      "price": "90.00",
+      "description": "delicioso taco de tripas con su verdura fresca y con un delicioso sazon",
+      "rating": "4",
+      "thumbnail": "https://raw.githubusercontent.com/sergio-altamirano/act1ioss/refs/heads/main/tripa.jpg"
+    },
+    {
+      "title": "tacos de barbacoa",
+      "price": "120-00",
+      "description": "delicioso taco de barbacoa con su verdura fresca y con un delicioso sazon",
+      "rating": "5",
+      "thumbnail": "https://raw.githubusercontent.com/sergio-altamirano/act1ioss/refs/heads/main/barbacoa.jpg"
+    }
+  ]
+}
